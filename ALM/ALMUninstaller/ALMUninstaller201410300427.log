@@ -1,0 +1,63 @@
+10/30/2014 4:27:40 PM : Detecting Quality Center 10.0
+10/30/2014 4:27:40 PM : Detecting ALM 
+10/30/2014 4:27:41 PM : Detecting Registered Installation
+10/30/2014 4:27:41 PM : Registered path according to registry: 
+10/30/2014 4:27:41 PM : Registered Installation not found
+10/30/2014 4:27:41 PM : Detection finished
+11/3/2014 12:57:59 PM : Detecting Quality Center 10.0
+11/3/2014 12:57:59 PM : Detecting ALM 
+11/3/2014 12:58:00 PM : Found ALM 11.0 - C:\Users\9lit\AppData\Local\HP\ALM-Client\shdcvsswa0051
+11/3/2014 12:58:00 PM : Detecting Registered Installation
+11/3/2014 12:58:00 PM : Registered path according to registry: 
+11/3/2014 12:58:00 PM : Registered Installation not found
+11/3/2014 12:58:00 PM : Detection finished
+11/3/2014 12:58:03 PM : Uninstall started
+11/3/2014 12:58:03 PM : Uninstalling ALM 11.0
+11/3/2014 12:58:03 PM : Removing Folder C:\Users\9lit\AppData\Local\HP\ALM-Client\shdcvsswa0051
+11/3/2014 12:58:03 PM : Deleting folder C:\Users\9lit\AppData\Local\HP\ALM-Client\shdcvsswa0051
+11/3/2014 12:58:04 PM : Removing Ini Section shdcvsswa0051.apac.wdpr.disney.com/qcbin from file C:\Users\9lit\AppData\Local\HP\ALM-Client\Deployments.ini
+11/3/2014 12:58:04 PM : Cleanup started
+11/3/2014 12:58:05 PM : Found Loader 11.0 - C:\Windows\Downloaded Program Files\ALM-Platform-Loader.11.ocx
+11/3/2014 12:58:05 PM : Uninstalling Loader 11.0
+11/3/2014 12:58:05 PM : Removing ALM Platform Loader 11.0
+11/3/2014 12:58:05 PM : Removing loader leftovers from registry
+11/3/2014 12:58:05 PM : Removing current user registry keys
+11/3/2014 12:58:05 PM : Searching: HKEY_CURRENT_USER\Software\Classes\VirtualStore\MACHINE\SOFTWARE\Mercury Interactive\TestDirector
+11/3/2014 12:58:05 PM : Searching: HKEY_CURRENT_USER\Software\Classes\VirtualStore\MACHINE\SOFTWARE\Wow6432Node\Mercury Interactive\TestDirector
+11/3/2014 12:58:05 PM : Searching: HKEY_CURRENT_USER\Software\Mercury Interactive\TestDirector
+11/3/2014 12:58:05 PM : Deleting HKEY_CURRENT_USER\Software\Mercury Interactive\TestDirector
+11/3/2014 12:58:05 PM : Sub key name: TestDirector
+11/3/2014 12:58:05 PM : Removing virtual local machine keys
+11/3/2014 12:58:05 PM : Searching: .DEFAULT\Software\Classes\VirtualStore\MACHINE\SOFTWARE\Mercury Interactive\TestDirector
+11/3/2014 12:58:05 PM : Searching: .DEFAULT\Software\Classes\VirtualStore\MACHINE\SOFTWARE\Wow6432Node\Mercury Interactive\TestDirector
+11/3/2014 12:58:05 PM : Searching: .DEFAULT\Software\Mercury Interactive\TestDirector
+11/3/2014 12:58:05 PM : Searching: S-1-5-19\Software\Classes\VirtualStore\MACHINE\SOFTWARE\Mercury Interactive\TestDirector
+11/3/2014 12:58:05 PM : Searching: S-1-5-19\Software\Classes\VirtualStore\MACHINE\SOFTWARE\Wow6432Node\Mercury Interactive\TestDirector
+11/3/2014 12:58:05 PM : Searching: S-1-5-19\Software\Mercury Interactive\TestDirector
+11/3/2014 12:58:05 PM : Searching: S-1-5-20\Software\Classes\VirtualStore\MACHINE\SOFTWARE\Mercury Interactive\TestDirector
+11/3/2014 12:58:05 PM : Searching: S-1-5-20\Software\Classes\VirtualStore\MACHINE\SOFTWARE\Wow6432Node\Mercury Interactive\TestDirector
+11/3/2014 12:58:05 PM : Searching: S-1-5-20\Software\Mercury Interactive\TestDirector
+11/3/2014 12:58:05 PM : Searching: S-1-5-21-1645522239-963894560-725345543-159364\Software\Classes\VirtualStore\MACHINE\SOFTWARE\Mercury Interactive\TestDirector
+11/3/2014 12:58:05 PM : Searching: S-1-5-21-1645522239-963894560-725345543-159364\Software\Classes\VirtualStore\MACHINE\SOFTWARE\Wow6432Node\Mercury Interactive\TestDirector
+11/3/2014 12:58:05 PM : Searching: S-1-5-21-1645522239-963894560-725345543-159364\Software\Mercury Interactive\TestDirector
+11/3/2014 12:58:05 PM : Searching: S-1-5-21-1645522239-963894560-725345543-159364_Classes\Software\Classes\VirtualStore\MACHINE\SOFTWARE\Mercury Interactive\TestDirector
+11/3/2014 12:58:05 PM : Searching: S-1-5-21-1645522239-963894560-725345543-159364_Classes\Software\Classes\VirtualStore\MACHINE\SOFTWARE\Wow6432Node\Mercury Interactive\TestDirector
+11/3/2014 12:58:05 PM : Searching: S-1-5-21-1645522239-963894560-725345543-159364_Classes\Software\Mercury Interactive\TestDirector
+11/3/2014 12:58:05 PM : Searching: S-1-5-18\Software\Classes\VirtualStore\MACHINE\SOFTWARE\Mercury Interactive\TestDirector
+11/3/2014 12:58:05 PM : Searching: S-1-5-18\Software\Classes\VirtualStore\MACHINE\SOFTWARE\Wow6432Node\Mercury Interactive\TestDirector
+11/3/2014 12:58:05 PM : Searching: S-1-5-18\Software\Mercury Interactive\TestDirector
+11/3/2014 12:58:05 PM : Removing Loader Class
+11/3/2014 12:58:05 PM : Removing Internet Explorer Loader addon
+11/3/2014 12:58:05 PM : Could not find loader class files.
+11/3/2014 12:58:05 PM : Done cleaning
+11/3/2014 12:58:05 PM : Deleting folder C:\Users\9lit\AppData\Local\HP\ALM-Client
+11/3/2014 12:58:05 PM : Deleting folder C:\Users\9lit\AppData\Local\Temp\TD_80
+11/3/2014 12:58:05 PM : Deleting folder C:\Users\9lit\AppData\LocalLow\Mercury Interactive\Quality Center
+11/3/2014 12:58:05 PM : Cleanup finished
+11/3/2014 12:58:05 PM : Uninstall finished
+11/3/2014 12:58:06 PM : Detecting Quality Center 10.0
+11/3/2014 12:58:06 PM : Detecting ALM 
+11/3/2014 12:58:06 PM : Detecting Registered Installation
+11/3/2014 12:58:06 PM : Registered path according to registry: 
+11/3/2014 12:58:06 PM : Registered Installation not found
+11/3/2014 12:58:06 PM : Detection finished
