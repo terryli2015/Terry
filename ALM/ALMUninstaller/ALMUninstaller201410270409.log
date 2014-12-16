@@ -1,0 +1,66 @@
+10/27/2014 4:09:11 PM : Detecting Quality Center 10.0
+10/27/2014 4:09:11 PM : Detecting ALM 
+10/27/2014 4:09:11 PM : Found ALM 12.0 - C:\Users\9lit\AppData\Local\HP\ALM-Client\localhost
+10/27/2014 4:09:11 PM : Detecting Registered Installation
+10/27/2014 4:09:11 PM : Registered path according to registry: 
+10/27/2014 4:09:11 PM : Registered Installation not found
+10/27/2014 4:09:11 PM : Detection finished
+10/27/2014 4:09:17 PM : Stopped iexplore (2712)
+10/27/2014 4:09:17 PM : Stopped iexplore (852)
+10/27/2014 4:09:17 PM : Stopped iexplore (4808)
+10/27/2014 4:09:17 PM : Uninstall started
+10/27/2014 4:09:17 PM : Uninstalling ALM 12.0
+10/27/2014 4:09:17 PM : Removing Folder C:\Users\9lit\AppData\Local\HP\ALM-Client\localhost
+10/27/2014 4:09:17 PM : Deleting folder C:\Users\9lit\AppData\Local\HP\ALM-Client\localhost
+10/27/2014 4:09:18 PM : Removing Ini Section localhost:8080/qcbin from file C:\Users\9lit\AppData\Local\HP\ALM-Client\Deployments.ini
+10/27/2014 4:09:18 PM : Cleanup started
+10/27/2014 4:09:18 PM : Found Loader 12.0 - C:\Windows\Downloaded Program Files\ALM-Platform-Loader.12.0x.ocx
+10/27/2014 4:09:18 PM : Uninstalling Loader 12.0
+10/27/2014 4:09:18 PM : Removing ALM Platform Loader 12.0
+10/27/2014 4:09:18 PM : Removing loader leftovers from registry
+10/27/2014 4:09:18 PM : Removing current user registry keys
+10/27/2014 4:09:18 PM : Searching: HKEY_CURRENT_USER\Software\Classes\VirtualStore\MACHINE\SOFTWARE\Mercury Interactive\TestDirector
+10/27/2014 4:09:18 PM : Searching: HKEY_CURRENT_USER\Software\Classes\VirtualStore\MACHINE\SOFTWARE\Wow6432Node\Mercury Interactive\TestDirector
+10/27/2014 4:09:18 PM : Searching: HKEY_CURRENT_USER\Software\Mercury Interactive\TestDirector
+10/27/2014 4:09:19 PM : Deleting HKEY_CURRENT_USER\Software\Mercury Interactive\TestDirector
+10/27/2014 4:09:19 PM : Sub key name: TestDirector
+10/27/2014 4:09:19 PM : Removing virtual local machine keys
+10/27/2014 4:09:19 PM : Searching: .DEFAULT\Software\Classes\VirtualStore\MACHINE\SOFTWARE\Mercury Interactive\TestDirector
+10/27/2014 4:09:19 PM : Searching: .DEFAULT\Software\Classes\VirtualStore\MACHINE\SOFTWARE\Wow6432Node\Mercury Interactive\TestDirector
+10/27/2014 4:09:19 PM : Searching: .DEFAULT\Software\Mercury Interactive\TestDirector
+10/27/2014 4:09:19 PM : Searching: S-1-5-19\Software\Classes\VirtualStore\MACHINE\SOFTWARE\Mercury Interactive\TestDirector
+10/27/2014 4:09:19 PM : Searching: S-1-5-19\Software\Classes\VirtualStore\MACHINE\SOFTWARE\Wow6432Node\Mercury Interactive\TestDirector
+10/27/2014 4:09:19 PM : Searching: S-1-5-19\Software\Mercury Interactive\TestDirector
+10/27/2014 4:09:19 PM : Searching: S-1-5-20\Software\Classes\VirtualStore\MACHINE\SOFTWARE\Mercury Interactive\TestDirector
+10/27/2014 4:09:19 PM : Searching: S-1-5-20\Software\Classes\VirtualStore\MACHINE\SOFTWARE\Wow6432Node\Mercury Interactive\TestDirector
+10/27/2014 4:09:19 PM : Searching: S-1-5-20\Software\Mercury Interactive\TestDirector
+10/27/2014 4:09:19 PM : Searching: S-1-5-21-1645522239-963894560-725345543-153717\Software\Classes\VirtualStore\MACHINE\SOFTWARE\Mercury Interactive\TestDirector
+10/27/2014 4:09:19 PM : Searching: S-1-5-21-1645522239-963894560-725345543-153717\Software\Classes\VirtualStore\MACHINE\SOFTWARE\Wow6432Node\Mercury Interactive\TestDirector
+10/27/2014 4:09:19 PM : Searching: S-1-5-21-1645522239-963894560-725345543-153717\Software\Mercury Interactive\TestDirector
+10/27/2014 4:09:19 PM : Searching: S-1-5-21-1645522239-963894560-725345543-153717_Classes\Software\Classes\VirtualStore\MACHINE\SOFTWARE\Mercury Interactive\TestDirector
+10/27/2014 4:09:19 PM : Searching: S-1-5-21-1645522239-963894560-725345543-153717_Classes\Software\Classes\VirtualStore\MACHINE\SOFTWARE\Wow6432Node\Mercury Interactive\TestDirector
+10/27/2014 4:09:19 PM : Searching: S-1-5-21-1645522239-963894560-725345543-153717_Classes\Software\Mercury Interactive\TestDirector
+10/27/2014 4:09:19 PM : Searching: S-1-5-21-1645522239-963894560-725345543-159364\Software\Classes\VirtualStore\MACHINE\SOFTWARE\Mercury Interactive\TestDirector
+10/27/2014 4:09:19 PM : Searching: S-1-5-21-1645522239-963894560-725345543-159364\Software\Classes\VirtualStore\MACHINE\SOFTWARE\Wow6432Node\Mercury Interactive\TestDirector
+10/27/2014 4:09:19 PM : Searching: S-1-5-21-1645522239-963894560-725345543-159364\Software\Mercury Interactive\TestDirector
+10/27/2014 4:09:19 PM : Searching: S-1-5-21-1645522239-963894560-725345543-159364_Classes\Software\Classes\VirtualStore\MACHINE\SOFTWARE\Mercury Interactive\TestDirector
+10/27/2014 4:09:19 PM : Searching: S-1-5-21-1645522239-963894560-725345543-159364_Classes\Software\Classes\VirtualStore\MACHINE\SOFTWARE\Wow6432Node\Mercury Interactive\TestDirector
+10/27/2014 4:09:19 PM : Searching: S-1-5-21-1645522239-963894560-725345543-159364_Classes\Software\Mercury Interactive\TestDirector
+10/27/2014 4:09:19 PM : Searching: S-1-5-18\Software\Classes\VirtualStore\MACHINE\SOFTWARE\Mercury Interactive\TestDirector
+10/27/2014 4:09:19 PM : Searching: S-1-5-18\Software\Classes\VirtualStore\MACHINE\SOFTWARE\Wow6432Node\Mercury Interactive\TestDirector
+10/27/2014 4:09:19 PM : Searching: S-1-5-18\Software\Mercury Interactive\TestDirector
+10/27/2014 4:09:19 PM : Removing Loader Class
+10/27/2014 4:09:19 PM : Removing Internet Explorer Loader addon
+10/27/2014 4:09:19 PM : Could not find loader class files.
+10/27/2014 4:09:19 PM : Done cleaning
+10/27/2014 4:09:19 PM : Deleting folder C:\Users\9lit\AppData\Local\HP\ALM-Client
+10/27/2014 4:09:19 PM : Deleting folder C:\Users\9lit\AppData\Local\Temp\TD_80
+10/27/2014 4:09:19 PM : Deleting folder C:\Users\9lit\AppData\LocalLow\Mercury Interactive\Quality Center
+10/27/2014 4:09:19 PM : Cleanup finished
+10/27/2014 4:09:19 PM : Uninstall finished
+10/27/2014 4:09:23 PM : Detecting Quality Center 10.0
+10/27/2014 4:09:23 PM : Detecting ALM 
+10/27/2014 4:09:23 PM : Detecting Registered Installation
+10/27/2014 4:09:23 PM : Registered path according to registry: 
+10/27/2014 4:09:23 PM : Registered Installation not found
+10/27/2014 4:09:23 PM : Detection finished
